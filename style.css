@@ -27,3 +27,9 @@ body {
     margin: 0 auto 3em auto;
     padding: 1em 0;
 }
+
+.container__header h1 {
+    font-size: 1.7em;
+    color: hsl(234, 12%, 34%);
+    font-weight: 200;
+}
