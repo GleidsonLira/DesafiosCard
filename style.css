@@ -17,3 +17,13 @@ body {
     box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.5);
     border-radius: 6px;
 }
+
+.container__header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    align-items: center;
+    margin: 0 auto 3em auto;
+    padding: 1em 0;
+}
