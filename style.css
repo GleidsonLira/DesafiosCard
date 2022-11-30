@@ -33,3 +33,14 @@ body {
     color: hsl(234, 12%, 34%);
     font-weight: 200;
 }
+
+.container__header h2 {
+    font-size: 1.7em;
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+
+.container__header p {
+    padding: 1em;
+    
+}
