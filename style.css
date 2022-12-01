@@ -47,3 +47,10 @@ body {
     font-weight: 400;
     text-align: center;
 }
+
+.container__cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    grid-row-gap: 30px;
+}
