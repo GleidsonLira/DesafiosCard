@@ -76,3 +76,24 @@ body {
     flex-direction: column;
     gap: 30px;
 }
+
+.supervisor__card, .calculator__card {
+    align-self: center;
+}
+
+.karma__card {
+    border-top: 4px solid hsl(34, 97%, 64%);
+}
+
+.team__builder__card {
+    border-top: 4px solid hsl(0, 78%, 62%);
+    margin-bottom: 30px;
+}
+
+.supervisor__card {
+    border-top: 4px solid hsl(180, 62%, 55%);
+}
+
+.calculator__card {
+    border-top: 4px solid hsl(212, 86%, 64%);
+}
