@@ -111,4 +111,14 @@ body {
     .container__all {
         margin-top: 0;
     }
+
+       .container__cards {
+        grid-template-columns: 1fr;
+        margin: 0 auto;
+    }
+
+    .container__header {
+        text-align: center;
+        width: fit-content;
+    }
 }
