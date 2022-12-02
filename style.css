@@ -54,3 +54,12 @@ body {
     margin: 0 auto;
     grid-row-gap: 30px;
 }
+
+.container__cards h1{
+    font-size: 1.3em;
+    padding-bottom: 10px;
+}
+
+.container__cards p{
+    color: hsl(229, 6%, 66%);
+}
